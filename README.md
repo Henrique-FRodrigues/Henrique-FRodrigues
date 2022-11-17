@@ -8,7 +8,7 @@
 </div>
   
 <div align="center"> 
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-FRodrigues&layout=compact&langs_count=10&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-FRodrigues&layout=compact&langs_count=10&theme=tokyonight"/>
 
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
